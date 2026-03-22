@@ -9,6 +9,7 @@ Hi, I'm Vidisha 👋
 - Java, Spring Boot
 - SQL, MySQL
 - REST APIs
+- Angular 
 
 🚀 Goal:
 To build scalable backend systems and contribute to real-world projects
