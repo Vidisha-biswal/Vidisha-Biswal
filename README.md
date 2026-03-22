@@ -1,5 +1,17 @@
 ## Hi there 👋
+Hi, I'm Vidisha 👋
 
+💻 Software Engineer | Java Full Stack Developer  
+📌 Currently building Insurance Claim Management System  
+📊 Strong in DSA (300+ problems solved)
+
+🔧 Tech Stack:
+- Java, Spring Boot
+- SQL, MySQL
+- REST APIs
+
+🚀 Goal:
+To build scalable backend systems and contribute to real-world projects
 <!--
 **Vidisha-biswal/Vidisha-Biswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
