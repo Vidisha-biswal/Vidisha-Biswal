@@ -1,29 +1,27 @@
-## Hi there 👋
-Hi, I'm Vidisha 👋
+# Hi, I'm Vidisha! 👋
 
-💻 Software Engineer | Java Full Stack Developer  
-📌 Currently building Insurance Claim Management System  
-📊 Strong in DSA (300+ problems solved)
+💻 **Software Engineer | Java & MERN Stack Developer**  
+🚀 **Goal:** To build scalable systems and contribute to impactful real-world projects.
 
-🔧 Tech Stack:
-- Java, Spring Boot
-- SQL, MySQL
-- REST APIs
-- Angular 
+---
 
-🚀 Goal:
-To build scalable backend systems and contribute to real-world projects
-<!--
-**Vidisha-biswal/Vidisha-Biswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Currently Working On: **Emaily**
+A full-stack feedback collection service built with **Node.js, React, and Redux**.
+- **Smart Auth:** Secure Google OAuth authentication.
+- **Credits & Payments:** Integrated Stripe for users to purchase credits.
+- **Survey Engine:** Users can create and send large-scale email surveys to a list of recipients.
+- **Data Insights:** Real-time tracking of survey responses and dashboard management.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- **Backend:** Java, Spring Boot, Node.js, Express
+- **Frontend:** React, Redux, Angular, Materialize CSS
+- **Database:** MongoDB, MySQL
+- **Other:** REST APIs, Google OAuth, Stripe API
+  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me:
+- **LinkedIn:** [in/vidisha-biswal-07662a224](https://www.linkedin.com/in/vidisha-biswal-07662a224/)
+- **LeetCode:** [ViDisha_31](https://leetcode.com/u/ViDisha_31/)
+
+⚡ *Fun fact: I love turning complex backend logic into simple, scalable solutions.*
