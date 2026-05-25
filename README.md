@@ -5,18 +5,20 @@
 
 ---
 
-### 🛠️ Currently Working On: **Emaily**
-A full-stack feedback collection service built with **Node.js, React, and Redux**.
-- **Smart Auth:** Secure Google OAuth authentication.
-- **Credits & Payments:** Integrated Stripe for users to purchase credits.
-- **Survey Engine:** Users can create and send large-scale email surveys to a list of recipients.
-- **Data Insights:** Real-time tracking of survey responses and dashboard management.
+### 🏆 Featured Full-Stack Project: **Emaily**
+A production-ready SaaS feedback collection service built with **Node.js, React, and Redux**.  
+🌐 **Live Application:** [Emaily App](https://emaily-nodewithreact.onrender.com) | 📁 **Source Code:** [GitHub Repository](https://github.com/Vidisha-biswal/Emaily_SaaS)
+
+- **Smart Auth:** Secure Google OAuth 2.0 authentication utilizing Passport.js and cookie-based sessions.
+- **Credits & Payments:** Integrated Stripe Checkout API to safely handle tokenized transactions and update user credit balances.
+- **Automated Survey Engine:** Programmatic mass email distribution utilizing Twilio SendGrid paired with responsive HTML email templates.
+- **Real-Time Data Pipeline:** Developed a custom webhook endpoint to capture, filter, and process user click data ("Yes"/"No"), utilizing MongoDB atomic updates to eliminate duplicate voting.
 
 ### 🔧 Tech Stack
 - **Backend:** Java, Spring Boot, Node.js, Express
 - **Frontend:** React, Redux, Angular, Materialize CSS
 - **Database:** MongoDB, MySQL
-- **Other:** REST APIs, Google OAuth, Stripe API
+- **Tools & Ecosystem:** Git/GitHub, REST APIs, Google OAuth, Stripe API, Twilio SendGrid, ngrok, Render Cloud Hosting
   
 ---
 
