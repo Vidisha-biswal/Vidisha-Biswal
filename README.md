@@ -1,29 +1,96 @@
 # Hi, I'm Vidisha! 👋
 
-💻 **Software Engineer | Java & MERN Stack Developer**  
-🚀 **Goal:** To build scalable systems and contribute to impactful real-world projects.
+💻 **Software Engineer | MERN Stack & Java Developer**
+🚀 Passionate about building scalable backend systems, full-stack web applications, and real-world software solutions.
 
 ---
 
-### 🏆 Featured Full-Stack Project: **Emaily**
-A production-ready SaaS feedback collection service built with **Node.js, React, and Redux**.  
-🌐 **Live Application:** [Emaily App](https://emaily-nodewithreact.onrender.com) | 📁 **Source Code:** [GitHub Repository](https://github.com/Vidisha-biswal/Emaily_SaaS)
+## 🏗️ Current Focus
 
-- **Smart Auth:** Secure Google OAuth 2.0 authentication utilizing Passport.js and cookie-based sessions.
-- **Credits & Payments:** Integrated Stripe Checkout API to safely handle tokenized transactions and update user credit balances.
-- **Automated Survey Engine:** Programmatic mass email distribution utilizing Twilio SendGrid paired with responsive HTML email templates.
-- **Real-Time Data Pipeline:** Developed a custom webhook endpoint to capture, filter, and process user click data ("Yes"/"No"), utilizing MongoDB atomic updates to eliminate duplicate voting.
+* System Design & Backend Engineering
+* Scalable Web Applications using Node.js & React
+* Data Structures & Algorithms
+* Distributed Systems Concepts
 
-### 🔧 Tech Stack
-- **Backend:** Java, Spring Boot, Node.js, Express
-- **Frontend:** React, Redux, Angular, Materialize CSS
-- **Database:** MongoDB, MySQL
-- **Tools & Ecosystem:** Git/GitHub, REST APIs, Google OAuth, Stripe API, Twilio SendGrid, ngrok, Render Cloud Hosting
-  
 ---
 
-### 📫 Connect with me:
-- **LinkedIn:** [in/vidisha-biswal-07662a224](https://www.linkedin.com/in/vidisha-biswal-07662a224/)
-- **LeetCode:** [ViDisha_31](https://leetcode.com/u/ViDisha_31/)
+## 🏆 Featured Full-Stack Project: **Emaily**
 
-⚡ *Fun fact: I love turning complex backend logic into simple, scalable solutions.*
+A production-ready SaaS feedback collection platform built using **Node.js, React, Redux, MongoDB, and Stripe**.
+
+🌐 **Live Application:** [Emaily App](https://emaily-nodewithreact.onrender.com)
+📁 **Source Code:** [GitHub Repository](https://github.com/Vidisha-biswal/Emaily_SaaS)
+
+### Key Highlights
+
+* Implemented secure Google OAuth 2.0 authentication using Passport.js and session-based authentication.
+* Integrated Stripe Checkout API for payment processing and user credit management.
+* Built an automated survey delivery pipeline using Twilio SendGrid and responsive HTML email templates.
+* Developed webhook-based event processing to capture survey responses and prevent duplicate voting using MongoDB atomic operations.
+
+---
+
+## 🚀 Upcoming System Design Project: **Scalable URL Shortener**
+
+Currently building a production-inspired URL shortening service using **Node.js, React, Redis, and MongoDB**.
+
+### Planned Features
+
+* URL shortening with custom aliases
+* Redis caching for low-latency redirection
+* Click analytics & tracking dashboard
+* Rate limiting and API security
+* URL expiration support
+* Scalable backend architecture
+* RESTful APIs with modular design
+* Deployment-ready cloud infrastructure
+
+### Tech Stack
+
+* **Frontend:** React
+* **Backend:** Node.js, Express
+* **Database:** MongoDB
+* **Caching:** Redis
+* **Tools:** Docker, GitHub Actions, Render
+
+---
+
+## 🔧 Tech Stack
+
+### Backend
+
+* Java
+* Spring Boot
+* Node.js
+* Express.js
+
+### Frontend
+
+* React
+* Redux
+* Angular
+* Materialize CSS
+
+### Database & Cloud
+
+* MongoDB
+* MySQL
+* Render
+
+### Tools & Ecosystem
+
+* Git & GitHub
+* REST APIs
+* Stripe API
+* Google OAuth
+* Twilio SendGrid
+* ngrok
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/vidisha-biswal-07662a224/
+* LeetCode: https://leetcode.com/u/ViDisha_31/
+
+⚡ Fun Fact: I enjoy transforming complex backend problems into scalable and maintainable systems.
