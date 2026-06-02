@@ -90,7 +90,7 @@ Currently building a production-inspired URL shortening service using **Node.js,
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/vidisha-biswal-07662a224/
-* LeetCode: https://leetcode.com/u/ViDisha_31/
+* LinkedIn: [LinkedIn_VidishaBiswal](https://www.linkedin.com/in/vidisha-biswal-07662a224/)
+* LeetCode: [Leetcode_VidishaBiswal](https://leetcode.com/u/ViDisha_31/)
 
 ⚡ Fun Fact: I enjoy transforming complex backend problems into scalable and maintainable systems.
