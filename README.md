@@ -1,25 +1,26 @@
 # Hi, I'm Vidisha! 👋
 
 💻 **Software Engineer | MERN Stack & Java Developer**
-🚀 Passionate about building scalable backend systems, full-stack web applications, and real-world software solutions.
+🚀 Passionate about building scalable backend systems, AI-powered applications, and real-world software solutions.
 
 ---
 
 ## 🏗️ Current Focus
 
-* System Design & Backend Engineering
-* Scalable Web Applications using Node.js & React
+* Backend Engineering & System Design
+* Full-Stack Development using React & Node.js
+* AI-Powered Applications
 * Data Structures & Algorithms
-* Distributed Systems Concepts
+* Scalable and Distributed Systems
 
 ---
 
-## 🏆 Featured Full-Stack Project: **Emaily**
+## 🏆 Featured Full-Stack Project: Emaily
 
-A production-ready SaaS feedback collection platform built using **Node.js, React, Redux, MongoDB, and Stripe**.
+A production-ready SaaS feedback collection platform built using Node.js, React, Redux, MongoDB, and Stripe.
 
-🌐 **Live Application:** [Emaily App](https://emaily-nodewithreact.onrender.com)
-📁 **Source Code:** [GitHub Repository](https://github.com/Vidisha-biswal/Emaily_SaaS)
+🌐 **Live Application:** [Emaily](https://emaily-nodewithreact.onrender.com)
+📁 **Source Code:** [Github](https://github.com/Vidisha-biswal/Emaily_SaaS)
 
 ### Key Highlights
 
@@ -27,31 +28,39 @@ A production-ready SaaS feedback collection platform built using **Node.js, Reac
 * Integrated Stripe Checkout API for payment processing and user credit management.
 * Built an automated survey delivery pipeline using Twilio SendGrid and responsive HTML email templates.
 * Developed webhook-based event processing to capture survey responses and prevent duplicate voting using MongoDB atomic operations.
+* Designed scalable REST APIs and optimized MongoDB data operations for efficient survey management.
 
 ---
 
-## 🚀 Upcoming System Design Project: **Scalable URL Shortener**
+## 🚀 Featured Project: AI Task Management Assistant
 
-Currently building a production-inspired URL shortening service using **Node.js, React, Redis, and MongoDB**.
+An intelligent productivity platform that helps users manage tasks efficiently through AI-powered prioritization, planning, and analytics.
 
-### Planned Features
+### Key Features
 
-* URL shortening with custom aliases
-* Redis caching for low-latency redirection
-* Click analytics & tracking dashboard
-* Rate limiting and API security
-* URL expiration support
-* Scalable backend architecture
-* RESTful APIs with modular design
-* Deployment-ready cloud infrastructure
+* Secure user authentication and authorization.
+* Complete task management (Create, Read, Update, Delete).
+* AI-generated task prioritization based on urgency and importance.
+* Personalized daily planning and scheduling recommendations.
+* Smart reminders and notifications.
+* Productivity analytics dashboard with actionable insights.
+* Responsive user experience across devices.
 
 ### Tech Stack
 
-* **Frontend:** React
-* **Backend:** Node.js, Express
-* **Database:** MongoDB
-* **Caching:** Redis
-* **Tools:** Docker, GitHub Actions, Render
+* Frontend: React
+* Backend: Node.js, Express.js
+* Database: MongoDB
+* AI Integration: OpenAI API / Azure OpenAI
+* Authentication: JWT, bcrypt
+* Deployment: Render
+
+### Engineering Highlights
+
+* Designed modular RESTful APIs following scalable backend architecture principles.
+* Implemented AI-powered recommendation workflows for task prioritization and planning.
+* Applied role-based access control and secure authentication practices.
+* Optimized database queries and backend performance for a seamless user experience.
 
 ---
 
@@ -69,28 +78,31 @@ Currently building a production-inspired URL shortening service using **Node.js,
 * React
 * Redux
 * Angular
-* Materialize CSS
 
 ### Database & Cloud
 
 * MongoDB
 * MySQL
+* Redis
 * Render
 
 ### Tools & Ecosystem
 
 * Git & GitHub
 * REST APIs
+* Docker
+* GitHub Actions
+* OpenAI API
 * Stripe API
 * Google OAuth
 * Twilio SendGrid
-* ngrok
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: [LinkedIn_VidishaBiswal](https://www.linkedin.com/in/vidisha-biswal-07662a224/)
-* LeetCode: [Leetcode_VidishaBiswal](https://leetcode.com/u/ViDisha_31/)
+[LinkedIn](https://www.linkedin.com/in/vidisha-biswal-07662a224/)
 
-⚡ Fun Fact: I enjoy transforming complex backend problems into scalable and maintainable systems.
+[LeetCode](https://leetcode.com/u/ViDisha_31/)
+
+⚡ I enjoy solving challenging backend problems, designing scalable systems, and building software that creates real-world impact.
