@@ -19,7 +19,7 @@
 
 A production-ready SaaS feedback collection platform built using Node.js, React, Redux, MongoDB, and Stripe.
 
-🌐 **Live Application:** [Emaily](https://emaily-nodewithreact.onrender.com)
+🌐 **Live Application:** [Emaily](https://emaily-saasmanagement-rako85nvg-work-lab.vercel.app/)
 📁 **Source Code:** [Github](https://github.com/Vidisha-biswal/Emaily_SaaS)
 
 ### Key Highlights
