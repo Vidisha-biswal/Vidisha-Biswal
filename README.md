@@ -1,108 +1,184 @@
-# Hi, I'm Vidisha! 👋
+# Hi, I'm Vidisha Biswal 👋
 
-💻 **Software Engineer | MERN Stack & Java Developer**
-🚀 Passionate about building scalable backend systems, AI-powered applications, and real-world software solutions.
+**Software Engineer | Java Backend & Full-Stack Development**
 
----
+I build backend applications with Java and Spring Boot, with a growing focus on microservices, distributed systems, database consistency, and production-grade software engineering.
 
-## 🏗️ Current Focus
+Currently deepening my backend engineering skills by building **OrderFlow**, an order management and inventory platform designed to explore real-world distributed systems challenges through hands-on implementation, testing, and engineering documentation.
 
-* Backend Engineering & System Design
-* Full-Stack Development using React & Node.js
-* AI-Powered Applications
-* Data Structures & Algorithms
-* Scalable and Distributed Systems
-
----
-
-## 🏆 Featured Full-Stack Project: Emaily
-
-A production-ready SaaS feedback collection platform built using Node.js, React, Redux, MongoDB, and Stripe.
-
-🌐 **Live Application:** [Emaily](https://emaily-saasmanagement-rako85nvg-work-lab.vercel.app/)
-📁 **Source Code:** [Github](https://github.com/Vidisha-biswal/Emaily_SaaS)
-
-### Key Highlights
-
-* Implemented secure Google OAuth 2.0 authentication using Passport.js and session-based authentication.
-* Integrated Stripe Checkout API for payment processing and user credit management.
-* Built an automated survey delivery pipeline using Twilio SendGrid and responsive HTML email templates.
-* Developed webhook-based event processing to capture survey responses and prevent duplicate voting using MongoDB atomic operations.
-* Designed scalable REST APIs and optimized MongoDB data operations for efficient survey management.
+- 🔭 **Currently building:** OrderFlow — Distributed Order & Inventory Platform
+- ☕ **Primary stack:** Java, Spring Boot, Spring Security, REST APIs
+- 🗄️ **Data & messaging:** PostgreSQL, Redis, Apache Kafka
+- 🧪 **Engineering practices:** Unit testing, integration testing, concurrency control, CI/CD
+- 🧠 **Core interests:** DSA, system design, microservices, reliability, and scalability
+- 📍 Bengaluru, India
 
 ---
 
-## 🚀 Featured Project: AI Task Management Assistant
+## 🚀 Current Engineering Project
 
-An intelligent productivity platform that helps users manage tasks efficiently through AI-powered prioritization, planning, and analytics.
+### OrderFlow — Production-Oriented Order & Inventory Platform
 
-### Key Features
+**Status:** In progress
 
-* Secure user authentication and authorization.
-* Complete task management (Create, Read, Update, Delete).
-* AI-generated task prioritization based on urgency and importance.
-* Personalized daily planning and scheduling recommendations.
-* Smart reminders and notifications.
-* Productivity analytics dashboard with actionable insights.
-* Responsive user experience across devices.
+OrderFlow is a hands-on backend engineering project designed around an e-commerce order processing and inventory allocation workflow. Its goal is to explore how independently deployed services coordinate, persist data, exchange events, and handle concurrent requests and failures.
 
-### Tech Stack
+**Planned architecture**
 
-* Frontend: React
-* Backend: Node.js, Express.js
-* Database: MongoDB
-* AI Integration: OpenAI API / Azure OpenAI
-* Authentication: JWT, bcrypt
-* Deployment: Render
+- **API Gateway:** Centralized routing and request authorization
+- **Order Service:** Order lifecycle management and idempotent order creation
+- **Inventory Service:** Stock validation, allocation, and concurrency control
+- **Notification Service:** Asynchronous processing of order events
+- **PostgreSQL:** Transactional persistence with separate service-owned databases
+- **Apache Kafka:** Event-driven communication between services
+- **Redis:** Catalog caching and idempotency-related use cases
+- **Docker Compose:** Local infrastructure and reproducible development environments
 
-### Engineering Highlights
+**Key engineering problems I'm working to solve**
 
-* Designed modular RESTful APIs following scalable backend architecture principles.
-* Implemented AI-powered recommendation workflows for task prioritization and planning.
-* Applied role-based access control and secure authentication practices.
-* Optimized database queries and backend performance for a seamless user experience.
+- Preventing duplicate orders when clients retry requests.
+- Preventing overselling during concurrent inventory updates.
+- Maintaining reliable event publication and consumption.
+- Understanding transaction boundaries across independent services.
+- Handling service failures, retries, and eventual consistency.
+- Testing business logic, integration flows, and concurrency scenarios.
 
----
+**Technology stack**
 
-## 🔧 Tech Stack
+Java 21 · Spring Boot · Spring Security · Maven · PostgreSQL · Redis · Apache Kafka · JUnit · Mockito · Testcontainers · Docker · GitHub Actions
 
-### Backend
+**Engineering documentation**
 
-* Java
-* Spring Boot
-* Node.js
-* Express.js
+- System architecture and service boundaries
+- Database schemas and domain models
+- API contracts and request flows
+- Engineering decisions and trade-offs
+- Implementation progress, tests, and troubleshooting notes
 
-### Frontend
+**Repository:** [OrderFlow — add repository link when created](https://github.com/Vidisha-biswal)
 
-* React
-* Redux
-* Angular
-
-### Database & Cloud
-
-* MongoDB
-* MySQL
-* Redis
-* Render
-
-### Tools & Ecosystem
-
-* Git & GitHub
-* REST APIs
-* Docker
-* GitHub Actions
-* OpenAI API
-* Stripe API
-* Google OAuth
-* Twilio SendGrid
+*The architecture and technology stack describe the project direction. Individual components and reliability guarantees will be marked complete only after implementation and verification.*
 
 ---
 
-## 📫 Connect With Me
+## 🛠️ Technical Skills
 
-[LinkedIn](https://www.linkedin.com/in/vidisha-biswal-07662a224/)
+### Backend Development
+- Java
+- Spring Boot
+- Spring Security
+- Spring Data JPA / Hibernate
+- RESTful API design
+- Node.js and Express.js
 
-[LeetCode](https://leetcode.com/u/ViDisha_31/)
+### Databases & Messaging
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis
+- Apache Kafka — learning through implementation
 
-⚡ I enjoy solving challenging backend problems, designing scalable systems, and building software that creates real-world impact.
+### Frontend Development
+- Angular
+- React
+- Redux
+- HTML, CSS, JavaScript
+
+### Testing, Tools & Delivery
+- JUnit and Mockito
+- Git and GitHub
+- Maven
+- Docker
+- GitHub Actions
+- Postman
+- CI/CD fundamentals
+
+### Computer Science & Design
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Low-Level Design (LLD)
+- High-Level Design (HLD)
+- Microservices architecture
+- Distributed systems fundamentals
+
+---
+
+## 📌 Selected Projects
+
+### 1. OrderFlow — Distributed Order & Inventory Platform
+**Java · Spring Boot · PostgreSQL · Kafka · Redis · Docker**
+
+My primary backend engineering project, focused on service boundaries, transactional workflows, idempotency, inventory concurrency, event-driven communication, and automated testing.
+
+[View Repository](https://github.com/Vidisha-biswal)
+
+### 2. Emaily — SaaS Survey Management Platform
+**Node.js · Express.js · React · Redux · MongoDB · Stripe**
+
+A full-stack survey platform featuring Google OAuth authentication, payment integration, email delivery, and webhook-based survey response processing.
+
+- Integrated Stripe Checkout for credit purchases.
+- Implemented email delivery using SendGrid.
+- Processed survey responses through webhooks and duplicate-voting safeguards.
+- Built REST APIs and session-based authentication.
+
+[Source Code](https://github.com/Vidisha-biswal/Emaily_SaaS)
+
+### 3. AI-Powered Task Management Assistant
+**React · Node.js · Express.js · MongoDB · JWT · Gemini API**
+
+A productivity application combining task management with AI-assisted prioritization and daily planning.
+
+- Implemented authentication and task CRUD workflows.
+- Integrated AI-assisted task prioritization.
+- Organized backend functionality into REST endpoints and modular application logic.
+
+[Source Code](https://github.com/Vidisha-biswal/ai-task-manager) · [Live Application](https://ai-task-manager-ekay.onrender.com)
+
+### 4. Movie Booking Application
+**Java · Spring Boot · Spring Data JPA · MySQL · Angular**
+
+A full-stack training project with user and administrator functionality, CRUD operations, and REST API integration.
+
+---
+
+## 📈 My Engineering Progress
+
+I want this profile to demonstrate not only what I build, but also how I approach engineering problems.
+
+As I develop OrderFlow, I plan to document:
+
+- [ ] Service design and API contracts
+- [ ] Database design and transaction boundaries
+- [ ] Authentication and authorization
+- [ ] Idempotency and safe request retries
+- [ ] Inventory concurrency and optimistic locking
+- [ ] Kafka event processing and failure handling
+- [ ] Redis caching and cache invalidation
+- [ ] Unit and integration test coverage
+- [ ] Docker-based local environment
+- [ ] CI pipeline and automated quality checks
+- [ ] Observability, logging, and debugging
+- [ ] Architecture trade-offs and failure scenarios
+
+Each item will be marked complete only after the relevant implementation and verification are documented.
+
+---
+
+## 🎯 What I'm Working Toward
+
+My goal is to become a strong backend engineer who can design, implement, test, and reason about reliable distributed applications.
+
+I focus on understanding **why an engineering decision is made**, what trade-offs it introduces, how the system behaves under failure, and how its correctness can be verified.
+
+I also continue to practice Data Structures and Algorithms and study system design to strengthen my software engineering fundamentals.
+
+---
+
+## 🤝 Let's Connect
+
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/vidisha-biswal-07662a224/)
+- **GitHub:** [Explore my repositories](https://github.com/Vidisha-biswal)
+- **LeetCode:** [View my problem-solving practice](https://leetcode.com/u/ViDisha_31/)
+
+Thanks for visiting my profile! I'm always interested in backend engineering, system design, distributed systems, and building software that solves meaningful problems.
