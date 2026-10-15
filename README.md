@@ -55,7 +55,7 @@ Java 21 · Spring Boot · Spring Security · Maven · PostgreSQL · Redis · Apa
 - Engineering decisions and trade-offs
 - Implementation progress, tests, and troubleshooting notes
 
-**Repository:** [OrderFlow — add repository link when created](https://github.com/Vidisha-biswal)
+**Repository:** [OrderFlow — Order & Inventory Platform](https://github.com/Vidisha-biswal/orderflow)
 
 *The architecture and technology stack describe the project direction. Individual components and reliability guarantees will be marked complete only after implementation and verification.*
 
@@ -110,7 +110,7 @@ Java 21 · Spring Boot · Spring Security · Maven · PostgreSQL · Redis · Apa
 
 My primary backend engineering project, focused on service boundaries, transactional workflows, idempotency, inventory concurrency, event-driven communication, and automated testing.
 
-[View Repository](https://github.com/Vidisha-biswal)
+[View Repository](https://github.com/Vidisha-biswal/orderflow)
 
 ### 2. Emaily — SaaS Survey Management Platform
 **Node.js · Express.js · React · Redux · MongoDB · Stripe**
