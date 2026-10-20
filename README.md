@@ -2,68 +2,68 @@
 
 **Software Engineer | Java Backend & Full-Stack Development**
 
-I build backend applications with Java and Spring Boot, with a growing focus on microservices, distributed systems, database consistency, and production-grade software engineering.
+I build backend applications and full-stack systems using Java, Spring Boot, REST APIs, SQL, and modern web technologies. My engineering focus is on designing secure, maintainable applications and developing deeper expertise in microservices architecture, database consistency, testing, and distributed systems.
 
-Currently deepening my backend engineering skills by building **OrderFlow**, an order management and inventory platform designed to explore real-world distributed systems challenges through hands-on implementation, testing, and engineering documentation.
+I'm focused on building practical, well-documented software that demonstrates not just what I know, but how I design, implement, test, and improve backend systems.
 
-- 🔭 **Currently building:** OrderFlow — Distributed Order & Inventory Platform
-- ☕ **Primary stack:** Java, Spring Boot, Spring Security, REST APIs
-- 🗄️ **Data & messaging:** PostgreSQL, Redis, Apache Kafka
-- 🧪 **Engineering practices:** Unit testing, integration testing, concurrency control, CI/CD
-- 🧠 **Core interests:** DSA, system design, microservices, reliability, and scalability
+- 🔭 **Current project:** Accounts, Cards & Loans — Banking Microservices Platform
+- ☕ **Backend:** Java, Spring Boot, Spring Security, Spring Data JPA
+- 🔌 **API development:** REST APIs, service integration, API security
+- 🗄️ **Databases:** PostgreSQL, MySQL, MongoDB
+- 🏗️ **Architecture:** Microservices, service communication, resilience patterns
+- 🧪 **Engineering practices:** Testing, debugging, API documentation, CI/CD
+- 🌐 **Full-stack:** Angular, React, JavaScript
 - 📍 Bengaluru, India
 
 ---
 
-## 🚀 Current Engineering Project
+## 🚀 Featured Project
 
-### OrderFlow — Production-Oriented Order & Inventory Platform
+### Accounts, Cards & Loans — Banking Microservices Platform
 
-**Status:** In progress
+**Java · Spring Boot · Spring Cloud · Spring Security · REST APIs · Docker**
 
-OrderFlow is a hands-on backend engineering project designed around an e-commerce order processing and inventory allocation workflow. Its goal is to explore how independently deployed services coordinate, persist data, exchange events, and handle concurrent requests and failures.
+A banking application built around account, card, and loan management, with a microservices-oriented architecture. The project focuses on organizing backend capabilities into services and implementing the infrastructure and security patterns needed to develop maintainable, independently deployable applications.
 
-**Planned architecture**
+**Core engineering focus**
 
-- **API Gateway:** Centralized routing and request authorization
-- **Order Service:** Order lifecycle management and idempotent order creation
-- **Inventory Service:** Stock validation, allocation, and concurrency control
-- **Notification Service:** Asynchronous processing of order events
-- **PostgreSQL:** Transactional persistence with separate service-owned databases
-- **Apache Kafka:** Event-driven communication between services
-- **Redis:** Catalog caching and idempotency-related use cases
-- **Docker Compose:** Local infrastructure and reproducible development environments
-
-**Key engineering problems I'm working to solve**
-
-- Preventing duplicate orders when clients retry requests.
-- Preventing overselling during concurrent inventory updates.
-- Maintaining reliable event publication and consumption.
-- Understanding transaction boundaries across independent services.
-- Handling service failures, retries, and eventual consistency.
-- Testing business logic, integration flows, and concurrency scenarios.
+- **Microservices architecture:** Define service responsibilities and boundaries for banking capabilities.
+- **REST API development:** Build and integrate backend endpoints using Java and Spring Boot.
+- **Service communication:** Explore communication patterns and interactions between independent services.
+- **Centralized configuration:** Manage application configuration across services.
+- **Service discovery and API Gateway:** Organize service registration, discovery, and client-facing routing.
+- **Security:** Implement authentication and authorization using the project's security architecture.
+- **Resilience:** Address service failures and explore timeout, retry, and circuit-breaker patterns.
+- **Containerization:** Configure services and supporting infrastructure for reproducible environments.
+- **Observability:** Improve application visibility through logging, metrics, and diagnostic tooling.
+- **Deployment:** Work with container orchestration and deployment configurations where implemented.
 
 **Technology stack**
 
-Java 21 · Spring Boot · Spring Security · Maven · PostgreSQL · Redis · Apache Kafka · JUnit · Mockito · Testcontainers · Docker · GitHub Actions
+Java · Spring Boot · Spring Cloud · Spring Security · Spring Data JPA · SQL · Docker · Maven
+
+Additional technologies such as Kubernetes, Helm, monitoring tools, and messaging systems will be documented as they are integrated and verified.
 
 **Engineering documentation**
 
-- System architecture and service boundaries
-- Database schemas and domain models
-- API contracts and request flows
-- Engineering decisions and trade-offs
-- Implementation progress, tests, and troubleshooting notes
+- System architecture and service responsibilities.
+- Service communication and request flows.
+- REST API contracts and example requests.
+- Configuration and security decisions.
+- Error handling and resilience strategies.
+- Test cases, implementation notes, and troubleshooting.
+- Deployment instructions and environment setup.
 
-**Repository:** [OrderFlow — Order & Inventory Platform](https://github.com/Vidisha-biswal/orderflow)
+**Repository:** [Accounts, Cards & Loans](https://github.com/Vidisha-biswal/Account-Card-Loan)
 
-*The architecture and technology stack describe the project direction. Individual components and reliability guarantees will be marked complete only after implementation and verification.*
+*Implementation status, architecture diagrams, tests, and setup instructions will be maintained in the project repository. Features and technologies are presented as completed only after implementation and verification.*
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### Backend Development
+
 - Java
 - Spring Boot
 - Spring Security
@@ -71,107 +71,117 @@ Java 21 · Spring Boot · Spring Security · Maven · PostgreSQL · Redis · Apa
 - RESTful API design
 - Node.js and Express.js
 
-### Databases & Messaging
+### Databases & Data Access
+
 - PostgreSQL
 - MySQL
 - MongoDB
-- Redis
-- Apache Kafka — learning through implementation
+- SQL and relational database fundamentals
+- ORM and database integration
+
+### Microservices & Architecture
+
+- Microservices architecture
+- Service communication and API Gateway patterns
+- Authentication and authorization
+- Database transactions and consistency
+- Resilience and fault-tolerance fundamentals
+- Low-Level Design (LLD)
+- High-Level Design (HLD)
 
 ### Frontend Development
+
 - Angular
 - React
 - Redux
-- HTML, CSS, JavaScript
+- HTML
+- CSS
+- JavaScript
 
-### Testing, Tools & Delivery
-- JUnit and Mockito
+### Testing & Developer Tools
+
+- JUnit
+- Mockito
 - Git and GitHub
 - Maven
 - Docker
-- GitHub Actions
 - Postman
+- GitHub Actions
 - CI/CD fundamentals
 
-### Computer Science & Design
+### Computer Science Fundamentals
+
 - Data Structures and Algorithms
 - Object-Oriented Programming
-- Low-Level Design (LLD)
-- High-Level Design (HLD)
-- Microservices architecture
-- Distributed systems fundamentals
+- Data structures and problem-solving
+- Design patterns
+- API and database design
 
 ---
 
-## 📌 Selected Projects
+## 📌 Other Selected Projects
 
-### 1. OrderFlow — Distributed Order & Inventory Platform
-**Java · Spring Boot · PostgreSQL · Kafka · Redis · Docker**
+### BuildEase — Construction E-commerce Platform
 
-My primary backend engineering project, focused on service boundaries, transactional workflows, idempotency, inventory concurrency, event-driven communication, and automated testing.
+**Java · Spring Boot · Spring Data JPA · Spring Security · Angular**
 
-[View Repository](https://github.com/Vidisha-biswal/orderflow)
+A collaborative construction e-commerce application developed as part of a six-member team.
 
-### 2. Emaily — SaaS Survey Management Platform
-**Node.js · Express.js · React · Redux · MongoDB · Stripe**
+- Contributed to backend API development and application functionality.
+- Worked with Spring Boot, JPA, and REST API integration.
+- Implemented and integrated authentication and role-based access control.
+- Collaborated on backend and frontend integration.
 
-A full-stack survey platform featuring Google OAuth authentication, payment integration, email delivery, and webhook-based survey response processing.
+### Movie Booking Application
 
-- Integrated Stripe Checkout for credit purchases.
-- Implemented email delivery using SendGrid.
-- Processed survey responses through webhooks and duplicate-voting safeguards.
-- Built REST APIs and session-based authentication.
-
-[Source Code](https://github.com/Vidisha-biswal/Emaily_SaaS)
-
-### 3. AI-Powered Task Management Assistant
-**React · Node.js · Express.js · MongoDB · JWT · Gemini API**
-
-A productivity application combining task management with AI-assisted prioritization and daily planning.
-
-- Implemented authentication and task CRUD workflows.
-- Integrated AI-assisted task prioritization.
-- Organized backend functionality into REST endpoints and modular application logic.
-
-[Source Code](https://github.com/Vidisha-biswal/ai-task-manager) · [Live Application](https://ai-task-manager-ekay.onrender.com)
-
-### 4. Movie Booking Application
 **Java · Spring Boot · Spring Data JPA · MySQL · Angular**
 
-A full-stack training project with user and administrator functionality, CRUD operations, and REST API integration.
+A full-stack application featuring user and administrator functionality, CRUD operations, and REST API integration.
+
+- Developed backend functionality using Java and Spring Boot.
+- Integrated REST APIs with the Angular frontend.
+- Used Spring Data JPA and MySQL for data persistence.
+- Worked with application-layer separation and database operations.
 
 ---
 
-## 📈 My Engineering Progress
+## 📈 Engineering Proof of Work
 
-I want this profile to demonstrate not only what I build, but also how I approach engineering problems.
+I use my repositories to document implementation decisions, demonstrate working functionality, and track engineering improvements.
 
-As I develop OrderFlow, I plan to document:
+My project documentation prioritizes verifiable evidence in the following areas:
 
-- [ ] Service design and API contracts
-- [ ] Database design and transaction boundaries
+- [ ] Service architecture and clearly defined responsibilities
+- [ ] REST API contracts and example requests
 - [ ] Authentication and authorization
-- [ ] Idempotency and safe request retries
-- [ ] Inventory concurrency and optimistic locking
-- [ ] Kafka event processing and failure handling
-- [ ] Redis caching and cache invalidation
-- [ ] Unit and integration test coverage
-- [ ] Docker-based local environment
-- [ ] CI pipeline and automated quality checks
-- [ ] Observability, logging, and debugging
-- [ ] Architecture trade-offs and failure scenarios
+- [ ] Database schema and persistence design
+- [ ] Centralized configuration and service discovery
+- [ ] Service-to-service communication
+- [ ] Error handling and resilience
+- [ ] Unit and integration testing
+- [ ] Docker-based application setup
+- [ ] Automated build and test workflows
+- [ ] Logging, monitoring, and debugging
+- [ ] Architecture decisions and trade-offs
 
-Each item will be marked complete only after the relevant implementation and verification are documented.
+Each item will be marked complete only when the relevant implementation and supporting evidence are available.
 
 ---
 
-## 🎯 What I'm Working Toward
+## 🎯 Engineering Goals
 
-My goal is to become a strong backend engineer who can design, implement, test, and reason about reliable distributed applications.
+I'm working toward becoming a strong Java backend engineer with the ability to build and maintain secure, reliable, and scalable applications.
 
-I focus on understanding **why an engineering decision is made**, what trade-offs it introduces, how the system behaves under failure, and how its correctness can be verified.
+My focus is on:
 
-I also continue to practice Data Structures and Algorithms and study system design to strengthen my software engineering fundamentals.
+- Writing clean, maintainable Java code.
+- Designing well-structured backend services and REST APIs.
+- Understanding microservices architecture beyond basic implementation.
+- Applying sound database design, security, and testing practices.
+- Evaluating engineering trade-offs and handling failure scenarios.
+- Strengthening DSA, LLD, and HLD fundamentals.
+
+I believe strong engineering is demonstrated through working software, thoughtful technical decisions, reliable tests, and the ability to explain why a solution works.
 
 ---
 
@@ -181,4 +191,4 @@ I also continue to practice Data Structures and Algorithms and study system desi
 - **GitHub:** [Explore my repositories](https://github.com/Vidisha-biswal)
 - **LeetCode:** [View my problem-solving practice](https://leetcode.com/u/ViDisha_31/)
 
-Thanks for visiting my profile! I'm always interested in backend engineering, system design, distributed systems, and building software that solves meaningful problems.
+Thanks for visiting my profile! I'm interested in Java backend and full-stack engineering, microservices, system design, and building reliable software.
