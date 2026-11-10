@@ -151,7 +151,7 @@ I use my repositories to document implementation decisions, demonstrate working 
 
 My project documentation prioritizes verifiable evidence in the following areas:
 
-- [✔️] Service architecture and clearly defined responsibilities
+- [X] Service architecture and clearly defined responsibilities
 - [ ] REST API contracts and example requests
 - [ ] Authentication and authorization
 - [ ] Database schema and persistence design
