@@ -1,6 +1,6 @@
 # Hi, I'm Vidisha Biswal 👋
 
-**Software Engineer | Java Backend & Full-Stack Development**
+**Software Engineer | Java Backend & Full-Stack Developer**
 
 I build backend applications and full-stack systems using Java, Spring Boot, REST APIs, SQL, and modern web technologies. My engineering focus is on designing secure, maintainable applications and developing deeper expertise in microservices architecture, database consistency, testing, and distributed systems.
 
@@ -151,7 +151,7 @@ I use my repositories to document implementation decisions, demonstrate working 
 
 My project documentation prioritizes verifiable evidence in the following areas:
 
-- [ ] Service architecture and clearly defined responsibilities
+- [✔️] Service architecture and clearly defined responsibilities
 - [ ] REST API contracts and example requests
 - [ ] Authentication and authorization
 - [ ] Database schema and persistence design
