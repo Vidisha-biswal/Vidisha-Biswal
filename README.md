@@ -1,6 +1,6 @@
 # Hi, I'm Vidisha Biswal 👋
 
-**Software Engineer | Java Backend & Full-Stack Developer**
+**Software Engineer | Java Backend & Full-Stack Development**
 
 I build backend applications and full-stack systems using Java, Spring Boot, REST APIs, SQL, and modern web technologies. My engineering focus is on designing secure, maintainable applications and developing deeper expertise in microservices architecture, database consistency, testing, and distributed systems.
 
